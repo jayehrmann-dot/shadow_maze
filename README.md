@@ -5,6 +5,10 @@ replays every move you make, a few seconds late, step for step. Collect every
 gem without ever touching it. Atari 2600 looks, single-screen maze play,
 running entirely inside your terminal.
 
+<p align="center">
+<img width="563" height="425" alt="shadow_maze" src="https://github.com/user-attachments/assets/06b842cb-3280-46a6-90cc-016fb7254397" />
+<p>
+
 ```bash
 ./play.sh
 ```
